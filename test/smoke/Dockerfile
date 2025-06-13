@@ -1,5 +1,3 @@
-FROM alpine:latest
-
 RUN useradd -m appuser
 
 USER appuser
